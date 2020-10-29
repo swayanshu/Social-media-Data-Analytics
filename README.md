@@ -12,3 +12,5 @@ https://www.sciencedirect.com/science/article/pii/S1366554516303817?casa_token=O
 ![](https://github.com/swayanshu/Social-media-Data-Analytics/blob/main/Graphs/1_aqQ0uIRd5gFfMJYx75i3Lg.png) 
 
 ![](https://github.com/swayanshu/Social-media-Data-Analytics/blob/main/Graphs/hierachical_cluster.jpg)
+
+![](https://github.com/swayanshu/Social-media-Data-Analytics/blob/main/Graphs/Overall-approach-for-social-media-data-analysis.png)
