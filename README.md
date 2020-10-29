@@ -13,4 +13,4 @@ https://www.sciencedirect.com/science/article/pii/S1366554516303817?casa_token=O
 
 ![](https://github.com/swayanshu/Social-media-Data-Analytics/blob/main/Graphs/hierachical_cluster.jpg)
 
-![](https://github.com/swayanshu/Social-media-Data-Analytics/blob/main/Graphs/Overall-approach-for-social-media-data-analysis.png)
+![](https://github.com/swayanshu/Social-media-Data-Analytics/blob/main/Graphs/performing-twitter-sentiment-analysis1.jpg)
